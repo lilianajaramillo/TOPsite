@@ -1,1 +1,21 @@
-body {backgroundcolor: gray; font: century gothic; font-color: white;}
+<!DOCTYPE html>
+<html>
+<title>W3.CSS Template</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+<body>
+
+<!-- Navbar (sit on top) -->
+<div class="w3-top">
+  <ul class="w3-navbar w3-white w3-wide w3-padding-8 w3-card-2">
+    <li>
+      <a href="#home" class="w3-margin-left"><b>TWENTY ONE PILOTS</b> website</a>
+    </li>
+    <!-- Float links to the right. Hide them on small screens -->
+    <li class="w3-right w3-hide-small">
+      <a href="#projects" class="w3-left">Songs</a>
+      <a href="#about" class="w3-left">Albums</a>
+      <a href="#contact" class="w3-left w3-margin-right">Tickets</a>
+    </li>
+  </ul>
+</div>
