@@ -1,20 +1,8 @@
 <!DOCTYPE html>
 <html>
-<title>W3.CSS Template</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
-<body>
-
-<!-- Navbar (sit on top) -->
-<div class="w3-top">
-    <li>
-      <a href="#home" class="w3-margin-left"><b>TWENTY ONE PILOTS</b> website</a>
-    </li>
-    <li class="w3-right w3-hide-small">
-      <a href="#projects" class="w3-left">Songs</a>
-      <a href="#about" class="w3-left">Albums</a>
-      <a href="#contact" class="w3-left w3-margin-right">Tickets</a>
-    </li>
-  </ul>
-</div>
+<head>
+  <link href="myCool.css" rel="stylesheet" type="text/css">
+ -<style="background-color: gray;">
+  	<title>Twenty One Pilots</title>
+  <head/>
 </html>
