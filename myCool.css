@@ -17,5 +17,8 @@ h2 {
 ul {
  color: white;
  font-family: verdana;
+ float: left;
+ margin: 0;
+ width: 33.3333
 }
 
