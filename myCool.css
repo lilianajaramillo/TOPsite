@@ -4,7 +4,13 @@ body {
   background-color: black;
   text-align: middle;
 }
-
+nav {
+    float: middle;
+    max-width: 200px;
+    margin: 0;
+    padding: 1em;
+  background-color: red;
+}
 h1 {
   height: 200px;
   background-position: center center;
