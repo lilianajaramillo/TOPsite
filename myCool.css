@@ -21,11 +21,10 @@ h1 {
 
 h2 {
   color: white;
-  font-family: 'Raleway', sans-serif;
-  font-size: 28px;
+  font-family: 'Covered By Your Grace', sans-serif;
+  font-size: 30px;
   font-weight: 500;
   text-align: left;
-  text-transform: uppercase;
 }
 
 ul {
@@ -43,17 +42,17 @@ li {
 }
 
 p {
-  color: #444444;
+  color: white;
   line-height: 32px;
   font-family: 'Raleway', sans-serif;
-  font-size: 20px;
+  font-size: 25px;
   font-weight: 100;
 }
 
 a {
-  color: #214E34;
+  color: red;
   font-family: 'Raleway', sans-serif;
-  font-size: 13px;
+  font-size: 20px;
   font-weight: 900;
   text-align: left;
   text-transform: uppercase;
