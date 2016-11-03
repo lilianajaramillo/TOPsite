@@ -2,10 +2,12 @@ body {
   padding: 0;
   margin: 100px;
   background-color: black;
+  text-align: middle;
 }
 
 h1 {
   height: 400px;
+  background-image: url("http://fullhdpictures.com/wp-content/uploads/2016/02/Great-Twenty-One-Pilots-Wallpaper.png");
   background-position: center center;
   color: white;
   font-family: 'Covered By Your Grace', sans-serif;
@@ -13,8 +15,11 @@ h1 {
   line-height: 76px;
   margin: 0;
   position: relative;
-  text-align: center;
+  text-align: middle;
   top: 20%;
+}
+
+img { 
 }
 
 /** List style **/
