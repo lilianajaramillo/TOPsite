@@ -35,10 +35,11 @@ ul {
 }
 
 li {
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid white;
   list-style: none;
   margin: 100px 0px;
   padding-bottom: 60px;
+  color: white;
 }
 
 p {
