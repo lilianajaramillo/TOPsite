@@ -10,7 +10,6 @@ nav {
     max-width: 200px;
     margin: 0;
     padding: 1em;
-  background-color: red;
 }
 h1 {
   height: 200px;
@@ -25,7 +24,8 @@ h1 {
   top: 20%;
 }
 
-img { 
+img {
+  width: 75%;
 }
 
 /** List style **/
