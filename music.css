@@ -1,0 +1,75 @@
+body {
+  padding: 0;
+  margin: 100px;
+  background-color: black;
+  text-align: middle;
+}
+nav {
+  color: white;
+    float: left;
+    max-width: 200px;
+    margin: 15px;
+    padding: 1em;
+}
+h1 {
+  height: 200px;
+  background-position: center center;
+  color: white;
+  font-family: 'Covered By Your Grace', sans-serif;
+  font-size: 100px;
+  line-height: 76px;
+  margin: 0;
+  position: relative;
+  text-align: middle;
+  top: 20%;
+}
+
+img {
+  width: 75%;
+  margin: 20px;
+}
+
+/** List style **/
+
+h2 {
+  color: white;
+  font-family: 'Covered By Your Grace', sans-serif;
+  font-size: 30px;
+  font-weight: 500;
+  text-align: left;
+}
+
+ul {
+  margin: 0 auto;
+  padding: 0;
+  width: 50%;
+}
+
+li {
+  font-family: 'Raleway', sans-serif;
+  border-bottom: 1px solid white;
+  list-style: none;
+  margin: 100px 0px;
+  padding-bottom: 60px;
+  color: white;
+  font-size: 25px;
+}
+
+p {
+  color: white;
+  line-height: 32px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 25px;
+  font-weight: 100;
+}
+
+a {
+  color: red;
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  font-weight: 900;
+  text-align: left;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 2px;
+}
